@@ -3,4 +3,5 @@
 and SQLite<h2>
 <img src="https://github.com/PriyankaSukumar22/Mobile-Application-Development-Android-/blob/main/NotesApp/AppScreenshots/emptynote.gif" width=auto height=auto></img>
 <img src="https://github.com/PriyankaSukumar22/Mobile-Application-Development-Android-/blob/main/NotesApp/AppScreenshots/emptynote.gif" width=auto height=auto></img>
+<img src="https://github.com/PriyankaSukumar22/Mobile-Application-Development-Android-/blob/main/NotesApp/FileStructure.png" width=auto height=auto><img>
  
